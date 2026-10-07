@@ -10,4 +10,6 @@ M.Tech (MINDS) at **IIT Delhi**, working on machine learning for messy, real-wor
 
 **Tools:** Python · PyTorch · Hugging Face Transformers · LightGBM · FAISS · pandas · Linux / HPC (PBS, A100 GPUs)
 
-📫 [LinkedIn](www.linkedin.com/in/mohanish-baviskar) · mohanishbaviskar19@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/mohanish-baviskar) · mohanishbaviskar19@gmail.com
+
+
