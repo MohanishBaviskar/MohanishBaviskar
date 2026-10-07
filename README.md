@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mohanish 👋
 
-<!--
-**MohanishBaviskar/MohanishBaviskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Tech (MINDS) at **IIT Delhi**, working on machine learning for messy, real-world data.
 
-Here are some ideas to get you started:
+🏆 **Top 10 of 32,000+ teams, Amazon ML Challenge 2026**: resolved ~10M noisy business records
+(39% adversarial decoys, one country with no labels) at 0.9909 F0.5.
+→ [entity-resolution](https://github.com/MohanishBaviskar/entity-resolution)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:** NLP · information retrieval · entity resolution · LLM fine-tuning · ML at scale · CV
+
+**Tools:** Python · PyTorch · Hugging Face Transformers · LightGBM · FAISS · pandas · Linux / HPC (PBS, A100 GPUs)
+
+📫 [LinkedIn](www.linkedin.com/in/mohanish-baviskar) · mohanishbaviskar19@gmail.com
