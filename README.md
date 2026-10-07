@@ -4,7 +4,7 @@ M.Tech (MINDS) at **IIT Delhi**, working on machine learning for messy, real-wor
 
 🏆 **Top 10 of 32,000+ teams, Amazon ML Challenge 2026**: resolved ~10M noisy business records
 (39% adversarial decoys, one country with no labels) at 0.9909 F0.5.
-→ [entity-resolution](https://github.com/MohanishBaviskar/entity-resolution)
+→ [Entity-Resolution](https://github.com/MohanishBaviskar/Entity-Resolution)
 
 **Interests:** NLP · information retrieval · entity resolution · LLM fine-tuning · ML at scale · CV
 
